@@ -32,3 +32,9 @@ git config --global user.email seu-email@gmail.com
     * 3. git add .
     * 4. git commit -m "atualizei a pagina de inicio"
     * 5. git push
+
+### Comandos para continuar um projeto já inicializado pelo o git
+    * 1. git add .
+    * 2. git commit -m "atualizei a pagina de inicio"
+    * 3. git push
+
